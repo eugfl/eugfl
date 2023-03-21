@@ -1,5 +1,5 @@
 ## Prazer, eu sou Gabriel Figueiredo!
-* 💻 - Atualmente trabalho com Front-end
+* 💻 - Sou um Desenvolvedor Front-end
 * 📚 - Estou me aperfeiçoando em JavaScript
 * 📈 - Minha meta é me tornar um Desenvolvedor FullStack
 
