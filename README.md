@@ -35,11 +35,11 @@
 
 ### 🎯 O Que Me Motiva
 
-Sou motivado pela oportunidade de resolver problemas complexos e criar soluções inovadoras que impactem positivamente a vida das pessoas. Adoro aprender novas tecnologias e estou sempre em busca de novos desafios para expandir meu conhecimento.
+Sou motivado pela oportunidade de resolver problemas e criar soluções que impactem positivamente a vida das pessoas. Adoro aprender novas tecnologias e estou sempre em busca de novos desafios para expandir meu conhecimento.
 
 ##
 
-### 🤝 Vamos Conectar!
+### 🤝 Vamos Nos Conectar!
 
 <div align="center"> 
   <a href="mailto:eugffl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
